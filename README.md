@@ -5,6 +5,7 @@
 
 Check my projects :
   African food services website : https://omencodes.github.io/African_food_services/ or www.africanfoodservices.com
-  chess game : https://omencodes.github.io/Chess  
+  Chess : https://omencodes.github.io/Chess  
   Minesweeper : https://omencodes.github.io/Minesweeper/
   Nine : https://omencodes.github.io/Nine/
+  Taquin : https://omencodes.github.io/taquin/
